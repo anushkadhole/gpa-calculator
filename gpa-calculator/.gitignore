@@ -1,0 +1,14 @@
+# Root
+.env
+*.log
+*.pyc
+__pycache__/
+
+# Backend
+/backend/database.db
+/backend/__pycache__/
+/backend/venv/
+
+# Frontend
+node_modules/
+dist/
