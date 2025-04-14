@@ -1,10 +1,6 @@
 # 🎓 GPA Calculator Web App
 
-![React]
-![TypeScript]
-![Flask]
-![SQLite]
-![Tailwind CSS]
+Technology Used - React, TypeScript, Flask, SQLite, Tailwind CSS
 
 > 🚀 A sleek, full-stack GPA calculator built for students — offering real-time grade tracking and instant GPA computation via a powerful React + Flask framework.
 
