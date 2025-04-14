@@ -1,30 +1,41 @@
-The GPA Calculator is a full-stack web application that allows users to input their grades and calculate their GPA in real-time. The project features a seamless frontend built with React and TypeScript, with a backend powered by Python Flask and a lightweight SQLite database. This project was developed by a 2-member team to provide a user-friendly GPA tracking system for students.
+# 🎓 GPA Calculator Web App
 
-Key Features - Real-time GPA Calculation: Users can input their grades and instantly see their GPA calculated based on the courses and grades they provide.
+![React]
+![TypeScript]
+![Flask]
+![SQLite]
+![Tailwind CSS]
 
-REST API Backend: Built using Python Flask, the backend facilitates secure data storage and management, including the addition of grades and GPA calculations.
+> 🚀 A sleek, full-stack GPA calculator built for students — offering real-time grade tracking and instant GPA computation via a powerful React + Flask framework.
 
-Database Integration: Utilized SQLite for storing grades, with optimized queries for faster performance and reliability.
+## 🧠 Project Overview
 
-Responsive UI: Built with React and Tailwind CSS for a modern, clean user interface that adapts to different screen sizes.
+The **GPA Calculator** is a real-time GPA tracking tool built by a 2-member team. Designed with simplicity and clarity in mind, it allows students to enter their grades and see an instant GPA calculation. The application features:
 
-Technologies Used
-Frontend: React, TypeScript, Tailwind CSS, Vite
+- A responsive and intuitive frontend with **React + TypeScript + Tailwind CSS**
+- A RESTful backend using **Python Flask**
+- Lightweight data storage using **SQLite**
 
-Backend: Python Flask, SQLite
+## ✨ Key Features
 
-API: RESTful, optimized for speed and scalability
+🎯 **Real-Time GPA Calculation**  
+Input your course grades and credit hours, and get your GPA instantly — with live updates as you type.
 
-Tools: CORS for secure cross-origin communication
+🔐 **Secure REST API**  
+The Flask-powered backend ensures secure handling of student data and efficient GPA logic processing.
 
-React for building dynamic UIs
+📁 **Database Integration (SQLite)**  
+Store and retrieve grade records with speed and minimal setup using optimized SQL queries.
 
-TypeScript for type-safe development
+📱 **Responsive UI**  
+Built with Tailwind CSS, the design is sleek and mobile-friendly, offering a consistent experience across devices.
 
-Flask for building a scalable REST API
+## 🔧 Tech Stack
 
-SQLite for fast, efficient data handling
-
-Tailwind CSS for sleek, modern design
-
+| Layer     | Tools & Frameworks                                               |
+|-----------|------------------------------------------------------------------|
+| Frontend  | ![React] ![TypeScript] ![Tailwind] ![Vite] |
+| Backend   | ![Python] ![Flask] |
+| Database  | ![SQLite] |
+| Tools     | CORS, RESTful APIs, GitHub, Postman, VS Code                      |
 
