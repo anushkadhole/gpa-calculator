@@ -1,4 +1,4 @@
-# 🎓 GPA Calculator Web App
+# 🎓 GPA Calculator App
 
 Technology Used - React, TypeScript, Flask, SQLite, Tailwind CSS
 
