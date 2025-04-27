@@ -4,7 +4,7 @@ Technology Used - React, TypeScript, Flask, SQLite, Tailwind CSS
 
 > 🚀 A sleek, full-stack GPA calculator built for students — offering real-time grade tracking and instant GPA computation via a powerful React + Flask framework.
 
-## 🧠 Project Overview
+## Project Overview
 
 The **GPA Calculator** is a real-time GPA tracking tool built by a 2-member team. Designed with simplicity and clarity in mind, it allows students to enter their grades and see an instant GPA calculation. The application features:
 
