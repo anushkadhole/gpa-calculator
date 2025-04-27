@@ -1,0 +1,18 @@
+services:
+  - type: web
+    name: gpa-backend
+    env: python
+    plan: free
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "python app.py"
+    rootDir: backend
+    autoDeploy: true
+
+  - type: web
+    name: gpa-frontend
+    env: static
+    plan: free
+    buildCommand: "npm install && npm run build"
+    staticPublishPath: frontend/build
+    rootDir: frontend
+    autoDeploy: true
